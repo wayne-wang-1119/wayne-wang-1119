@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @wayne-wang-1119
-- 👀 I’m interested in lego, food, animals, cars, ...
+- 📜 I'm currently studying math🔢, compsci💻, stats🎲, econ📈
+- 👀 I’m interested in lego🧱, food🍜, animals🐈‍⬛, cars🚗, ...
 - 🌱 I’m currently learning Applied Math(CS Concentration) and Statistics(Econ Concentration)
 - 💞️ I’m looking to meet more programmer!
 
