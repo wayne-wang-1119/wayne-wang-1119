@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wayne-wang-1119
 - 📜 I'm currently studying math🔢, compsci💻, stats🎲, econ📈
-- 👀 I’m interested in lego🧱, food🍜, animals🐈‍⬛, cars🚗, ...
+- 👀 (https://leetcode.com/waynewang1119/)
 - 💞️ I’m looking to meet more programmer!
 
 <!---
