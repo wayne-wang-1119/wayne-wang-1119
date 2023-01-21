@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @wayne-wang-1119
-- 📜 I'm currently studying math🔢, compsci💻, stats🎲, econ📈
-- 👀 (https://leetcode.com/waynewang1119/)
-- 💞️ I’m looking to meet more programmer!
+👀 (https://leetcode.com/waynewang1119/)
+👀 (https://www.linkedin.com/in/wayne-wang-380029197)
 
 <!---
 wayne-wang-1119/wayne-wang-1119 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
