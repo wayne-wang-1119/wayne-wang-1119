@@ -1,6 +1,2 @@
 - 👀 (https://leetcode.com/waynewang1119/)
-- ![](https://komarev.com/ghpvc/?username=wayne-wang-1119&color=blue)
-<!---
-wayne-wang-1119/wayne-wang-1119 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- AI, ML, Cloud, SaaS, PaaS, and even Web3. You utilities guy in software engineering
