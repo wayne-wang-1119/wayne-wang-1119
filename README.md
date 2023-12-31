@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wayne</h1>
 <h3 align="center">Software Engineer, End-to-End Developer, AI Researcher</h3>
 
+<h3 align="left">if wayne.now != coding:</h3>
+<h3 align="left>    wayne.now = wayne.thinking("what to code next")</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wayne-wang-380029197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wayne-wang-380029197" height="30" width="40" /></a>
