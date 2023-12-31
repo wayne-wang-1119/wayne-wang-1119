@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Wayne</h1>
-<h3 align="center">Software Engineer, End-to-End Developer, AI Researcher</h3>
-
-<h4 align="left">if wayne.now != coding:</h4>
-<h4 align="left" style="margin-left: 40;">wayne.now = wayne.thinking("what to code next")</h4>
-
+#### if wayne.now != coding:
+&nbsp;&nbsp;&nbsp;&nbsp;#### wayne.now = wayne.thinking("what to code next")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
