@@ -1,5 +1,5 @@
-#### if wayne.now != coding:
-&nbsp;&nbsp;&nbsp;&nbsp; #### wayne.now = wayne.thinking("what to code next")
+if wayne.now != coding:
+&nbsp;&nbsp;&nbsp;&nbsp; wayne.now = wayne.thinking("what to code next")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
