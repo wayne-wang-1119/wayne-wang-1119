@@ -1,4 +1,4 @@
 ```python
-if wayne.now != coding:
-    wayne.now = wayne.thinking("what to code next")
+if wayne.now() != "coding":
+    wayne.setNow(wayne.think("what to code next"))
 ```
